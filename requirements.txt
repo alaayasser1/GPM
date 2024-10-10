@@ -1,4 +1,4 @@
 streamlit
 numpy
 pandas
-sikitlrearn
+scikit-lrearn
